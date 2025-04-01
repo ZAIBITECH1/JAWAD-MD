@@ -59,7 +59,7 @@
     "OWNER_NUMBER": {
       "description": "set your status reply message",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "923116798238"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
